@@ -18,9 +18,10 @@ email: 'mika.zeilstra+portfolio@gmail.com'
 description: "I am a software engineer and graphics programmer from the Netherlands"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mikazeilstra.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-#twitter_username: 'jamigibbs'
+twitter_username: ''
 github_username: 'MikaZeilstra'
-#medium_username: 'blog.jamigibbs.com'
+medium_username: ''
+linkedin_username: "www.linkedin.com/in/mika-zeilstra-426134288/"
 
 # Build settings
 markdown: kramdown
