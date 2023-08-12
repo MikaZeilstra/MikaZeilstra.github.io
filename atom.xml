@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mika Zeilstra&apos;s Portfolio</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-08-12T15:17:08+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mika Zeilstra</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Interartive accretiondisk visualization</title>
+   <link href="http://localhost:4000/development/2023/08/11/MasterThesis.html"/>
+   <updated>2023-08-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/development/2023/08/11/MasterThesis</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Walk on spheres implementation</title>
+   <link href="http://localhost:4000/development/2022/12/11/WalkOnSpheres.html"/>
+   <updated>2022-12-11T00:00:00+01:00</updated>
+   <id>http://localhost:4000/development/2022/12/11/WalkOnSpheres</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Image space refractive </title>
+   <link href="http://localhost:4000/development/2022/04/20/refractive.html"/>
+   <updated>2022-04-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/development/2022/04/20/refractive</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ray tracing diffusion curves</title>
+   <link href="http://localhost:4000/development/2021/06/24/bachlorthesis.html"/>
+   <updated>2021-06-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/development/2021/06/24/bachlorthesis</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>License plate recognition project</title>
+   <link href="http://localhost:4000/development/2020/01/08/LicensePlateRecognition.html"/>
+   <updated>2020-01-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/development/2020/01/08/LicensePlateRecognition</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
