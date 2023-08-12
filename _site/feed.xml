@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mika Zeilstra&apos;s Portfolio</title>
+    <description>I am a software engineer and graphics programmer from the Netherlands</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Aug 2023 15:17:08 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Aug 2023 15:17:08 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Interartive accretiondisk visualization</title>
+        <description>
+</description>
+        <pubDate>Fri, 11 Aug 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/development/2023/08/11/MasterThesis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2023/08/11/MasterThesis.html</guid>
+        
+        <category>OpenGL</category>
+        
+        <category>CUDA</category>
+        
+        <category>C++</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Walk on spheres implementation</title>
+        <description>
+</description>
+        <pubDate>Sun, 11 Dec 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/development/2022/12/11/WalkOnSpheres.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2022/12/11/WalkOnSpheres.html</guid>
+        
+        <category>CUDA</category>
+        
+        <category>C++</category>
+        
+        <category>Vector-Graphics</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Image space refractive </title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Apr 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/development/2022/04/20/refractive.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2022/04/20/refractive.html</guid>
+        
+        <category>C++</category>
+        
+        <category>OpenGL</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Ray tracing diffusion curves</title>
+        <description>
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/development/2021/06/24/bachlorthesis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2021/06/24/bachlorthesis.html</guid>
+        
+        <category>C++</category>
+        
+        <category>OpenGL</category>
+        
+        <category>Optix</category>
+        
+        <category>CUDA</category>
+        
+        <category>Vector-Graphics</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>License plate recognition project</title>
+        <description>
+</description>
+        <pubDate>Wed, 08 Jan 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/development/2020/01/08/LicensePlateRecognition.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2020/01/08/LicensePlateRecognition.html</guid>
+        
+        <category>Python</category>
+        
+        <category>OCR</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
