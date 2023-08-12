@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Image space refractive '
+title: 'Double image space refraction'
 date: 2022-4-20
 categories: development
 tags: C++ OpenGL

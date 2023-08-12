@@ -9,5 +9,5 @@ featured_image: '/img/posts/Convergedsample.png'
 project_link: 'https://github.com/MikaZeilstra/InteractiveBlackHoleVisualization'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'An implementation of the walk spheres algorithm laplace solver to render diffusion curves.'
+lead_text: 'An implementation of the walk spheres laplace equation solver to render diffusion curves.'
 ---
