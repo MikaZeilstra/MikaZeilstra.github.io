@@ -4,7 +4,7 @@
  <title>Mika Zeilstra&apos;s Portfolio</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-12T15:17:08+02:00</updated>
+ <updated>2023-08-12T15:40:09+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mika Zeilstra</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Interartive accretiondisk visualization</title>
+   <title>Interactive accretiondisk visualization</title>
    <link href="http://localhost:4000/development/2023/08/11/MasterThesis.html"/>
    <updated>2023-08-11T00:00:00+02:00</updated>
    <id>http://localhost:4000/development/2023/08/11/MasterThesis</id>
@@ -31,7 +31,7 @@
  </entry>
  
  <entry>
-   <title>Image space refractive </title>
+   <title>Double image space refraction</title>
    <link href="http://localhost:4000/development/2022/04/20/refractive.html"/>
    <updated>2022-04-20T00:00:00+02:00</updated>
    <id>http://localhost:4000/development/2022/04/20/refractive</id>
