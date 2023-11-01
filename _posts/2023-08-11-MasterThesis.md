@@ -9,5 +9,5 @@ featured_image: '/img/posts/masterThesis.png'
 project_link: 'https://github.com/MikaZeilstra/InteractiveBlackHoleVisualization'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'An WIP extension for a visualization of rotating black holes. The extensions shows an accretion disk and free movement around the black hole'
+lead_text: 'An extension for a visualization of rotating black holes. The extensions shows an accretion disk and free movement around the black hole'
 ---

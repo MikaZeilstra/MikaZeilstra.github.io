@@ -3,10 +3,10 @@
   <channel>
     <title>Mika Zeilstra&apos;s Portfolio</title>
     <description>I am a software engineer and graphics programmer from the Netherlands</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Aug 2023 15:57:29 +0200</pubDate>
-    <lastBuildDate>Sat, 12 Aug 2023 15:57:29 +0200</lastBuildDate>
+    <link>https://mikazeilstra.github.io//</link>
+    <atom:link href="https://mikazeilstra.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 02 Nov 2023 00:51:09 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 00:51:09 +0100</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 11 Aug 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/development/2023/08/11/MasterThesis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2023/08/11/MasterThesis.html</guid>
+        <link>https://mikazeilstra.github.io//development/2023/08/11/MasterThesis.html</link>
+        <guid isPermaLink="true">https://mikazeilstra.github.io//development/2023/08/11/MasterThesis.html</guid>
         
         <category>OpenGL</category>
         
@@ -33,8 +33,8 @@
         <description>
 </description>
         <pubDate>Sun, 11 Dec 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/development/2022/12/11/WalkOnSpheres.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2022/12/11/WalkOnSpheres.html</guid>
+        <link>https://mikazeilstra.github.io//development/2022/12/11/WalkOnSpheres.html</link>
+        <guid isPermaLink="true">https://mikazeilstra.github.io//development/2022/12/11/WalkOnSpheres.html</guid>
         
         <category>CUDA</category>
         
@@ -52,8 +52,8 @@
         <description>
 </description>
         <pubDate>Wed, 20 Apr 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/development/2022/04/20/refractive.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2022/04/20/refractive.html</guid>
+        <link>https://mikazeilstra.github.io//development/2022/04/20/refractive.html</link>
+        <guid isPermaLink="true">https://mikazeilstra.github.io//development/2022/04/20/refractive.html</guid>
         
         <category>C++</category>
         
@@ -69,8 +69,8 @@
         <description>
 </description>
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/development/2021/06/24/bachlorthesis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2021/06/24/bachlorthesis.html</guid>
+        <link>https://mikazeilstra.github.io//development/2021/06/24/bachlorthesis.html</link>
+        <guid isPermaLink="true">https://mikazeilstra.github.io//development/2021/06/24/bachlorthesis.html</guid>
         
         <category>C++</category>
         
@@ -92,8 +92,8 @@
         <description>
 </description>
         <pubDate>Wed, 08 Jan 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/development/2020/01/08/LicensePlateRecognition.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2020/01/08/LicensePlateRecognition.html</guid>
+        <link>https://mikazeilstra.github.io//development/2020/01/08/LicensePlateRecognition.html</link>
+        <guid isPermaLink="true">https://mikazeilstra.github.io//development/2020/01/08/LicensePlateRecognition.html</guid>
         
         <category>Python</category>
         
